@@ -35,3 +35,6 @@ $ echo 1 > /dev/myled0
 
 # 実行動画リンク
 https://youtu.be/XxwMSyTCG_Q
+
+# ライセンス
+slackの課題1に上がっていた人の表記を真似てLICENSEをCOPYINGに変更した
