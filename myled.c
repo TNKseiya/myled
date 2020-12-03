@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: GPL-2.0
+// /*
+//  * Copyright (C) 2020 NaokiKaneko + Ueda.  All rights reserved.
+
 #include<linux/module.h>
 #include<linux/fs.h>
 #include<linux/cdev.h>
