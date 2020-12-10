@@ -23,5 +23,5 @@ $ echo 1 > /dev/myled0
 https://youtu.be/XxwMSyTCG_Q
 
 # ライセンス
-
+GNU General Public License v3.0  
 slackの課題1に上がっていた人の表記を真似てLICENSEをCOPYINGに変更した
