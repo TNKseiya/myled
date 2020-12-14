@@ -16,7 +16,8 @@
 # 実行方法
 ```
 $ git clone https://github.com/TNKseiya/myled.git  
-$ cd myled  
+$ cd myled 
+$ make  
 $ sudo insmod myled.ko  
 $ sudo chmod 666 /dev/myled0  
 $ echo 1 > /dev/myled0  
