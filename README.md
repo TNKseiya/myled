@@ -10,9 +10,9 @@
 ・ubuntu 18.04  
 ・Raspberry Pi 3 B+  
   （使用したピン）  
-     LED　　　　 GPIO25  
-     LED　　　　 GPIO8  
-     LED　　　　 GPIO19  
+  　LED(左)　　 GPIO25  
+  　LED(中)　　 GPIO8  
+  　LED(右)　　 GPIO19  
   電子ブザー　GPIO4  
 # 使用したもの
 ・Raspberry Pi 3 B+  
