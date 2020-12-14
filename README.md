@@ -1,10 +1,15 @@
 # myled
 ロボットシステム　課題
 
-# 動作内容
-講義内で作製したデバイスドライバに改良を加える  
+# リポジトリの概要
+ 講義内で作製したデバイスドライバに改良を加える  
  LEDを3桁の２進数として、1秒間隔で点灯させる  
  全点灯したら、1秒間隔で3回点滅させ、点灯しているときはブザーを鳴らす
+# 動作環境
+・ubuntu 18.04  
+・Raspberry Pi 3 B+  
+  （使用したピン）
+  
 # 使用したもの
 ・Raspberry Pi 3 B+  
 ・ブレッドボード  
@@ -27,4 +32,4 @@ https://youtu.be/XxwMSyTCG_Q
 
 # ライセンス
 GNU General Public License v3.0  
-slackの課題1に上がっていた人の表記を真似てLICENSEをCOPYINGに変更した
+slackの課題1に上がっていた人の表記を真似てLICENSEをCOPYINGに変更しました
