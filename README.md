@@ -6,6 +6,14 @@
  LEDを3桁の２進数として、1秒間隔で点灯させる  
  全点灯したら、1秒間隔で3回点滅させ、点灯しているときはブザーを鳴らす
 
+# 動作環境
+・ubuntu 18.04  
+・Raspberry Pi 3 B+  
+  （使用したピン）  
+     LED　　　　 GPIO25  
+     LED　　　　 GPIO8  
+     LED　　　　 GPIO19  
+  電子ブザー　GPIO4  
 # 使用したもの
 ・Raspberry Pi 3 B+  
 ・ブレッドボード  
@@ -14,12 +22,10 @@
 ・220Ω抵抗  
 ・F-Mジャンパー線  
 ・コの字型ワイヤ  
-# 動作環境
-・ubuntu 18.04  
-・Raspberry Pi 3 B+  
-  （使用したピン）  
-   　　LED   　　25,8,19  
-  電子ブザー　4番
+
+# 実行動画リンク
+https://youtu.be/XxwMSyTCG_Q
+  
 # 使用方法
 実行方法
 ```
@@ -34,8 +40,6 @@ $ echo 1 > /dev/myled0
 ~~~
 $ sudo rmmod myled
 ~~~
-# 実行動画リンク
-https://youtu.be/XxwMSyTCG_Q
 
 # ライセンス
 GNU General Public License v3.0  
