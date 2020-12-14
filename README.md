@@ -13,7 +13,7 @@
   　LED(左)　　 GPIO25  
   　LED(中)　　 GPIO8  
   　LED(右)　　 GPIO19  
-    電子ブザー  　GPIO4  
+   電子ブザー  　GPIO4  
 # 使用したもの
 ・Raspberry Pi 3 B+  
 ・ブレッドボード  
